@@ -3,6 +3,7 @@
 *.map filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
 .so filter=lfs diff=lfs merge=lfs -text
+Library/PlayerDataCache/Android/Data/* filter=lfs diff=lfs merge=lfs -text
 Library/metadata/* filter=lfs diff=lfs merge=lfs -text
 Library/metadata/05/0578b1d555563f845936e8dfdc1f135c filter=lfs diff=lfs merge=lfs -text
 Library/metadata/23/23de49f15b5ef3f44b6286a57cb5ceb5 filter=lfs diff=lfs merge=lfs -text

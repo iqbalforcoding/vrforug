@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 1b7b60e03c8b4104a9d6c466b70667cc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.001
+    100004: Cube.003
+    100006: leaves
+    100008: leaves.001
+    100010: leaves.002
+    100012: leaves.003
+    100014: leaves.004
+    100016: leaves.005
+    100018: //RootNode
+    100020: Plane
+    100022: tree
+    100024: tree.001
+    100026: tree.002
+    100028: tree.003
+    100030: tree.004
+    400000: Cube
+    400002: Cube.001
+    400004: Cube.003
+    400006: leaves
+    400008: leaves.001
+    400010: leaves.002
+    400012: leaves.003
+    400014: leaves.004
+    400016: leaves.005
+    400018: //RootNode
+    400020: Plane
+    400022: tree
+    400024: tree.001
+    400026: tree.002
+    400028: tree.003
+    400030: tree.004
+    2100000: ranting
+    2100002: daun
+    2100004: No Name
+    2100006: tembok biasa
+    2100008: pipa biru tua
+    2100010: tembok bata
+    2100012: papan gunddar
+    2100014: papan coklat gundar
+    2100016: papan biru.001
+    2100018: putih
+    2100020: lantai batako
+    2100022: tembok
+    2100024: tembok biasa.001
+    2100026: pipa biru tua.001
+    2100028: tembok bata.001
+    2100030: ranting.001
+    2100032: daun.001
+    2100034: ranting.003
+    2100036: daun.003
+    2100038: ranting.002
+    2100040: daun.002
+    2100042: ranting.004
+    2100044: daun.004
+    2300000: Cube
+    2300002: Cube.001
+    2300004: Cube.003
+    2300006: leaves
+    2300008: leaves.001
+    2300010: leaves.002
+    2300012: leaves.003
+    2300014: leaves.004
+    2300016: leaves.005
+    2300018: Plane
+    2300020: tree
+    2300022: tree.001
+    2300024: tree.002
+    2300026: tree.003
+    2300028: tree.004
+    3300000: Cube
+    3300002: Cube.001
+    3300004: Cube.003
+    3300006: leaves
+    3300008: leaves.001
+    3300010: leaves.002
+    3300012: leaves.003
+    3300014: leaves.004
+    3300016: leaves.005
+    3300018: Plane
+    3300020: tree
+    3300022: tree.001
+    3300024: tree.002
+    3300026: tree.003
+    3300028: tree.004
+    4300000: tree
+    4300002: leaves.001
+    4300004: leaves
+    4300006: Cube.003
+    4300008: Cube
+    4300010: Plane
+    4300012: Cube.001
+    4300014: tree.001
+    4300016: leaves.002
+    4300018: tree.003
+    4300020: leaves.004
+    4300022: tree.002
+    4300024: leaves.003
+    4300026: tree.004
+    4300028: leaves.005
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

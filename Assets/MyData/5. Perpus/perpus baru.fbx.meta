@@ -1,0 +1,1089 @@
+fileFormatVersion: 2
+guid: 7287429881ff7794c95f0f0a81a8141c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bangku ruang panjang 1
+    100002: bangku ruang panjang 1.001
+    100004: bangku ruang panjang 1.002
+    100006: bangku ruang panjang 1.003
+    100008: bangku ruang panjang 2
+    100010: bangku ruang panjang 2.001
+    100012: bangku ruang panjang 2.002
+    100014: bangku ruang panjang 2.003
+    100016: bangku ruang panjang 2.004
+    100018: CTRL_Baseboard
+    100020: CTRL_Hole
+    100022: Cube
+    100024: Cube.001
+    100026: Cube.002
+    100028: Cube.003
+    100030: Cube.004
+    100032: Cube.005
+    100034: Cube.006
+    100036: Cube.007
+    100038: Cube.008
+    100040: Cube.009
+    100042: Door
+    100044: Door_Group
+    100046: DoorFrame
+    100048: Grid
+    100050: Handle_Back
+    100052: Handle_Front
+    100054: keyboard
+    100056: kursi admin 1
+    100058: kursi admin 2
+    100060: kursi ruang diskusi kiri
+    100062: kursi ruang diskusi kiri.001
+    100064: kursi ruang diskusi kiri.002
+    100066: kursi ruang diskusi kiri.003
+    100068: kursi ruang diskusi kiri.004
+    100070: kursi ruang diskusi kiri.005
+    100072: kursi ruang diskusi kiri.006
+    100074: kursi ruang diskusi kiri.007
+    100076: kursi ruang diskusi kiri.008
+    100078: lantai utama
+    100080: loker besi
+    100082: loker besi.001
+    100084: loker besi.002
+    100086: loker besi.003
+    100088: loker besi.004
+    100090: loker besi.005
+    100092: loker kayu
+    100094: loker kayu.001
+    100096: loker kayu.002
+    100098: loker kayu.003
+    100100: loker kayu.004
+    100102: loker kayu.005
+    100104: loker kayu.006
+    100106: loker kayu.007
+    100108: loker kayu.008
+    100110: loker kayu.009
+    100112: luar
+    100114: meja admin
+    100116: meja besar r sofa
+    100118: meja besar r sofa.001
+    100120: meja besar r sofa.002
+    100122: meja besar r sofa.003
+    100124: meja besar ruang panjang kanan
+    100126: meja besar ruang panjang kanan.001
+    100128: meja besar ruang panjang kanan.002
+    100130: meja besar ruang panjang kanan.003
+    100132: meja besar ruang panjang kanan.004
+    100134: meja kecil r.sofa
+    100136: meja kecil r.sofa.001
+    100138: meja kecil r.sofa.002
+    100140: meja kecil r.sofa.003
+    100142: meja kecil ruang baca kiri
+    100144: meja panjang 1.001
+    100146: meja panjang 1.002
+    100148: meja panjang 1.003
+    100150: meja panjang 1.004
+    100152: meja ruang diskusi kiri
+    100154: meja ruang diskusi kiri.001
+    100156: meja ruang diskusi kiri.002
+    100158: meja ruang diskusi kiri.003
+    100160: meja ruang diskusi kiri.004
+    100162: meja ruang diskusi kiri.005
+    100164: meja ruang diskusi kiri.006
+    100166: meja ruang diskusi kiri.007
+    100168: meja ruang diskusi kiri.008
+    100170: meja ruang panjang kanan
+    100172: monitor
+    100174: mouse
+    100176: papan ruang diskusi kiri
+    100178: papan ruang diskusi kiri.001
+    100180: papan ruang diskusi kiri.002
+    100182: papan ruang diskusi kiri.003
+    100184: papan ruang diskusi kiri.004
+    100186: papan ruang diskusi kiri.005
+    100188: papan ruang diskusi kiri.006
+    100190: papan ruang diskusi kiri.007
+    100192: papan ruang diskusi kiri.008
+    100194: //RootNode
+    100196: pintu masuk
+    100198: pintu masuk.001
+    100200: rak buku panjang
+    100202: rak buku pendek
+    100204: rak buku pendek.001
+    100206: rak buku pendek.002
+    100208: rak r sofa
+    100210: rak ruang miring
+    100212: rak ruang miring.001
+    100214: rak ruang miring.002
+    100216: rak ruang miring.003
+    100218: rak ruang miring.004
+    100220: rak ruang miring.005
+    100222: rak ruang miring.006
+    100224: rak ruang miring.007
+    100226: rak ruang miring.008
+    100228: rak ruang miring.009
+    100230: rak ruang miring.010
+    100232: rak ruang miring.011
+    100234: rak ruang miring.012
+    100236: ruan buku pendek
+    100238: ruang  baca panjang
+    100240: ruang  buku panjang
+    100242: ruang loker besi
+    100244: ruang miring
+    100246: ruangskrip
+    100248: runag sofa
+    100250: sofa  kecil ruang panjang 1
+    100252: sofa  kecil ruang panjang 1.001
+    100254: sofa  kecil ruang panjang 1.002
+    100256: sofa besar ruang sofa
+    100258: sofa besar ruang sofa.001
+    100260: sofa besar ruang sofa.002
+    100262: sofa besar ruang sofa.003
+    100264: sofa besar ruang sofa.004
+    100266: sofa kecil r.sofa
+    100268: sofa kecil r.sofa.001
+    100270: sofa kecil r.sofa.002
+    100272: sofa kecil r.sofa.003
+    100274: sofa kecil ruang panjang 2
+    100276: Tangga
+    100278: tiang panjang
+    100280: tiang pendek001
+    100282: tiang pendek001.001
+    100284: tiang pendek001.002
+    100286: tiang pendek001.003
+    100288: tiang pendek001.004
+    100290: tiang pendek001.005
+    100292: tiang pendek001.006
+    100294: tiang pendek001.007
+    100296: tiang pendek001.008
+    100298: tiang pendek001.009
+    400000: bangku ruang panjang 1
+    400002: bangku ruang panjang 1.001
+    400004: bangku ruang panjang 1.002
+    400006: bangku ruang panjang 1.003
+    400008: bangku ruang panjang 2
+    400010: bangku ruang panjang 2.001
+    400012: bangku ruang panjang 2.002
+    400014: bangku ruang panjang 2.003
+    400016: bangku ruang panjang 2.004
+    400018: CTRL_Baseboard
+    400020: CTRL_Hole
+    400022: Cube
+    400024: Cube.001
+    400026: Cube.002
+    400028: Cube.003
+    400030: Cube.004
+    400032: Cube.005
+    400034: Cube.006
+    400036: Cube.007
+    400038: Cube.008
+    400040: Cube.009
+    400042: Door
+    400044: Door_Group
+    400046: DoorFrame
+    400048: Grid
+    400050: Handle_Back
+    400052: Handle_Front
+    400054: keyboard
+    400056: kursi admin 1
+    400058: kursi admin 2
+    400060: kursi ruang diskusi kiri
+    400062: kursi ruang diskusi kiri.001
+    400064: kursi ruang diskusi kiri.002
+    400066: kursi ruang diskusi kiri.003
+    400068: kursi ruang diskusi kiri.004
+    400070: kursi ruang diskusi kiri.005
+    400072: kursi ruang diskusi kiri.006
+    400074: kursi ruang diskusi kiri.007
+    400076: kursi ruang diskusi kiri.008
+    400078: lantai utama
+    400080: loker besi
+    400082: loker besi.001
+    400084: loker besi.002
+    400086: loker besi.003
+    400088: loker besi.004
+    400090: loker besi.005
+    400092: loker kayu
+    400094: loker kayu.001
+    400096: loker kayu.002
+    400098: loker kayu.003
+    400100: loker kayu.004
+    400102: loker kayu.005
+    400104: loker kayu.006
+    400106: loker kayu.007
+    400108: loker kayu.008
+    400110: loker kayu.009
+    400112: luar
+    400114: meja admin
+    400116: meja besar r sofa
+    400118: meja besar r sofa.001
+    400120: meja besar r sofa.002
+    400122: meja besar r sofa.003
+    400124: meja besar ruang panjang kanan
+    400126: meja besar ruang panjang kanan.001
+    400128: meja besar ruang panjang kanan.002
+    400130: meja besar ruang panjang kanan.003
+    400132: meja besar ruang panjang kanan.004
+    400134: meja kecil r.sofa
+    400136: meja kecil r.sofa.001
+    400138: meja kecil r.sofa.002
+    400140: meja kecil r.sofa.003
+    400142: meja kecil ruang baca kiri
+    400144: meja panjang 1.001
+    400146: meja panjang 1.002
+    400148: meja panjang 1.003
+    400150: meja panjang 1.004
+    400152: meja ruang diskusi kiri
+    400154: meja ruang diskusi kiri.001
+    400156: meja ruang diskusi kiri.002
+    400158: meja ruang diskusi kiri.003
+    400160: meja ruang diskusi kiri.004
+    400162: meja ruang diskusi kiri.005
+    400164: meja ruang diskusi kiri.006
+    400166: meja ruang diskusi kiri.007
+    400168: meja ruang diskusi kiri.008
+    400170: meja ruang panjang kanan
+    400172: monitor
+    400174: mouse
+    400176: papan ruang diskusi kiri
+    400178: papan ruang diskusi kiri.001
+    400180: papan ruang diskusi kiri.002
+    400182: papan ruang diskusi kiri.003
+    400184: papan ruang diskusi kiri.004
+    400186: papan ruang diskusi kiri.005
+    400188: papan ruang diskusi kiri.006
+    400190: papan ruang diskusi kiri.007
+    400192: papan ruang diskusi kiri.008
+    400194: //RootNode
+    400196: pintu masuk
+    400198: pintu masuk.001
+    400200: rak buku panjang
+    400202: rak buku pendek
+    400204: rak buku pendek.001
+    400206: rak buku pendek.002
+    400208: rak r sofa
+    400210: rak ruang miring
+    400212: rak ruang miring.001
+    400214: rak ruang miring.002
+    400216: rak ruang miring.003
+    400218: rak ruang miring.004
+    400220: rak ruang miring.005
+    400222: rak ruang miring.006
+    400224: rak ruang miring.007
+    400226: rak ruang miring.008
+    400228: rak ruang miring.009
+    400230: rak ruang miring.010
+    400232: rak ruang miring.011
+    400234: rak ruang miring.012
+    400236: ruan buku pendek
+    400238: ruang  baca panjang
+    400240: ruang  buku panjang
+    400242: ruang loker besi
+    400244: ruang miring
+    400246: ruangskrip
+    400248: runag sofa
+    400250: sofa  kecil ruang panjang 1
+    400252: sofa  kecil ruang panjang 1.001
+    400254: sofa  kecil ruang panjang 1.002
+    400256: sofa besar ruang sofa
+    400258: sofa besar ruang sofa.001
+    400260: sofa besar ruang sofa.002
+    400262: sofa besar ruang sofa.003
+    400264: sofa besar ruang sofa.004
+    400266: sofa kecil r.sofa
+    400268: sofa kecil r.sofa.001
+    400270: sofa kecil r.sofa.002
+    400272: sofa kecil r.sofa.003
+    400274: sofa kecil ruang panjang 2
+    400276: Tangga
+    400278: tiang panjang
+    400280: tiang pendek001
+    400282: tiang pendek001.001
+    400284: tiang pendek001.002
+    400286: tiang pendek001.003
+    400288: tiang pendek001.004
+    400290: tiang pendek001.005
+    400292: tiang pendek001.006
+    400294: tiang pendek001.007
+    400296: tiang pendek001.008
+    400298: tiang pendek001.009
+    2100000: Material.016
+    2100002: No Name
+    2100004: Material.123
+    2100006: Material.125
+    2100008: Material.124
+    2100010: rak
+    2100012: buku emas
+    2100014: kertas
+    2100016: buku doff
+    2100018: buku coklat
+    2100020: buku hitam
+    2100022: buku merah
+    2100024: kaki
+    2100026: Material.164
+    2100028: sofa.001
+    2100030: meja ruang baca
+    2100032: kakisofaa
+    2100034: sofa
+    2100036: Material.122
+    2100038: Material.120
+    2100040: Material.121
+    2100042: Material.119
+    2100044: Material.118
+    2100046: Material.117
+    2100048: Material.116
+    2100050: Material.015
+    2100052: Material.050
+    2100054: Material.014
+    2100056: Material.013
+    2100058: Material.047
+    2100060: Material.039
+    2100062: Material.012
+    2100064: Material.052
+    2100066: Material.036
+    2100068: Material.037
+    2100070: Material.038
+    2100072: Material.031
+    2100074: papantulis.006
+    2100076: bingkai papantuis.007
+    2100078: Material.175
+    2100080: Material.174
+    2100082: Material.173
+    2100084: Material.172
+    2100086: Material.171
+    2100088: Material.176
+    2100090: Material.178
+    2100092: Material.177
+    2100094: Material.181
+    2100096: Material.180
+    2100098: Material.158
+    2100100: Material.152
+    2100102: Material.153
+    2100104: Material.154
+    2100106: Material.150
+    2100108: Material.135
+    2100110: Material
+    2100112: Material.008
+    2100114: Material.141
+    2100116: Material.048
+    2100118: Material.155
+    2100120: Material.049
+    2100122: Material.010
+    2100124: pinggiaran tembok
+    2100126: Material.076
+    2100128: Lantai
+    2100130: tembok.003
+    2100132: Material.072
+    2100134: Material.092
+    2100136: lantai.003
+    2100138: tembok.002
+    2100140: pinggiran
+    2100142: Material.098
+    2100144: pntu
+    2100146: Material.127
+    2100148: Material.130
+    2100150: Material.128
+    2100152: Material.129
+    2100154: Material.126
+    2100156: lantai.005
+    2100158: Material.017
+    2100160: tmbk
+    2100162: lift
+    2100164: lantai.004
+    2100166: tembk keramik
+    2100168: kaca.001
+    2100170: Material.100
+    2100172: tembok r
+    2100174: lantai
+    2100176: tembok miring
+    2100178: kaca
+    2100180: Material.170
+    2100182: Material.108
+    2100184: Material.005
+    2100186: Material.006
+    2100188: Material.007
+    2100190: Material.004
+    2100192: Material.023
+    2100194: lantai.002
+    2100196: tembok.001
+    2100198: jendela
+    2100200: Material.022
+    2100202: Material.019
+    2100204: Material.132
+    2100206: Material.046
+    2100208: Material.134
+    2100210: Material.133
+    2100212: Material.001
+    2100214: Material.002
+    2300000: bangku ruang panjang 1
+    2300002: bangku ruang panjang 1.001
+    2300004: bangku ruang panjang 1.002
+    2300006: bangku ruang panjang 1.003
+    2300008: bangku ruang panjang 2
+    2300010: bangku ruang panjang 2.001
+    2300012: bangku ruang panjang 2.002
+    2300014: bangku ruang panjang 2.003
+    2300016: bangku ruang panjang 2.004
+    2300018: CTRL_Baseboard
+    2300020: CTRL_Hole
+    2300022: Cube
+    2300024: Cube.001
+    2300026: Cube.002
+    2300028: Cube.003
+    2300030: Cube.004
+    2300032: Cube.005
+    2300034: Cube.006
+    2300036: Cube.007
+    2300038: Cube.008
+    2300040: Cube.009
+    2300042: Door
+    2300044: DoorFrame
+    2300046: Grid
+    2300048: Handle_Back
+    2300050: Handle_Front
+    2300052: keyboard
+    2300054: kursi admin 1
+    2300056: kursi admin 2
+    2300058: kursi ruang diskusi kiri
+    2300060: kursi ruang diskusi kiri.001
+    2300062: kursi ruang diskusi kiri.002
+    2300064: kursi ruang diskusi kiri.003
+    2300066: kursi ruang diskusi kiri.004
+    2300068: kursi ruang diskusi kiri.005
+    2300070: kursi ruang diskusi kiri.006
+    2300072: kursi ruang diskusi kiri.007
+    2300074: kursi ruang diskusi kiri.008
+    2300076: lantai utama
+    2300078: loker besi
+    2300080: loker besi.001
+    2300082: loker besi.002
+    2300084: loker besi.003
+    2300086: loker besi.004
+    2300088: loker besi.005
+    2300090: loker kayu
+    2300092: loker kayu.001
+    2300094: loker kayu.002
+    2300096: loker kayu.003
+    2300098: loker kayu.004
+    2300100: loker kayu.005
+    2300102: loker kayu.006
+    2300104: loker kayu.007
+    2300106: loker kayu.008
+    2300108: loker kayu.009
+    2300110: luar
+    2300112: meja admin
+    2300114: meja besar r sofa
+    2300116: meja besar r sofa.001
+    2300118: meja besar r sofa.002
+    2300120: meja besar r sofa.003
+    2300122: meja besar ruang panjang kanan
+    2300124: meja besar ruang panjang kanan.001
+    2300126: meja besar ruang panjang kanan.002
+    2300128: meja besar ruang panjang kanan.003
+    2300130: meja besar ruang panjang kanan.004
+    2300132: meja kecil r.sofa
+    2300134: meja kecil r.sofa.001
+    2300136: meja kecil r.sofa.002
+    2300138: meja kecil r.sofa.003
+    2300140: meja kecil ruang baca kiri
+    2300142: meja panjang 1.001
+    2300144: meja panjang 1.002
+    2300146: meja panjang 1.003
+    2300148: meja panjang 1.004
+    2300150: meja ruang diskusi kiri
+    2300152: meja ruang diskusi kiri.001
+    2300154: meja ruang diskusi kiri.002
+    2300156: meja ruang diskusi kiri.003
+    2300158: meja ruang diskusi kiri.004
+    2300160: meja ruang diskusi kiri.005
+    2300162: meja ruang diskusi kiri.006
+    2300164: meja ruang diskusi kiri.007
+    2300166: meja ruang diskusi kiri.008
+    2300168: meja ruang panjang kanan
+    2300170: monitor
+    2300172: mouse
+    2300174: papan ruang diskusi kiri
+    2300176: papan ruang diskusi kiri.001
+    2300178: papan ruang diskusi kiri.002
+    2300180: papan ruang diskusi kiri.003
+    2300182: papan ruang diskusi kiri.004
+    2300184: papan ruang diskusi kiri.005
+    2300186: papan ruang diskusi kiri.006
+    2300188: papan ruang diskusi kiri.007
+    2300190: papan ruang diskusi kiri.008
+    2300192: pintu masuk
+    2300194: pintu masuk.001
+    2300196: rak buku panjang
+    2300198: rak buku pendek
+    2300200: rak buku pendek.001
+    2300202: rak buku pendek.002
+    2300204: rak r sofa
+    2300206: rak ruang miring
+    2300208: rak ruang miring.001
+    2300210: rak ruang miring.002
+    2300212: rak ruang miring.003
+    2300214: rak ruang miring.004
+    2300216: rak ruang miring.005
+    2300218: rak ruang miring.006
+    2300220: rak ruang miring.007
+    2300222: rak ruang miring.008
+    2300224: rak ruang miring.009
+    2300226: rak ruang miring.010
+    2300228: rak ruang miring.011
+    2300230: rak ruang miring.012
+    2300232: ruan buku pendek
+    2300234: ruang  baca panjang
+    2300236: ruang  buku panjang
+    2300238: ruang loker besi
+    2300240: ruang miring
+    2300242: ruangskrip
+    2300244: runag sofa
+    2300246: sofa  kecil ruang panjang 1
+    2300248: sofa  kecil ruang panjang 1.001
+    2300250: sofa  kecil ruang panjang 1.002
+    2300252: sofa besar ruang sofa
+    2300254: sofa besar ruang sofa.001
+    2300256: sofa besar ruang sofa.002
+    2300258: sofa besar ruang sofa.003
+    2300260: sofa besar ruang sofa.004
+    2300262: sofa kecil r.sofa
+    2300264: sofa kecil r.sofa.001
+    2300266: sofa kecil r.sofa.002
+    2300268: sofa kecil r.sofa.003
+    2300270: sofa kecil ruang panjang 2
+    2300272: Tangga
+    2300274: tiang panjang
+    2300276: tiang pendek001
+    2300278: tiang pendek001.001
+    2300280: tiang pendek001.002
+    2300282: tiang pendek001.003
+    2300284: tiang pendek001.004
+    2300286: tiang pendek001.005
+    2300288: tiang pendek001.006
+    2300290: tiang pendek001.007
+    2300292: tiang pendek001.008
+    2300294: tiang pendek001.009
+    3300000: bangku ruang panjang 1
+    3300002: bangku ruang panjang 1.001
+    3300004: bangku ruang panjang 1.002
+    3300006: bangku ruang panjang 1.003
+    3300008: bangku ruang panjang 2
+    3300010: bangku ruang panjang 2.001
+    3300012: bangku ruang panjang 2.002
+    3300014: bangku ruang panjang 2.003
+    3300016: bangku ruang panjang 2.004
+    3300018: CTRL_Baseboard
+    3300020: CTRL_Hole
+    3300022: Cube
+    3300024: Cube.001
+    3300026: Cube.002
+    3300028: Cube.003
+    3300030: Cube.004
+    3300032: Cube.005
+    3300034: Cube.006
+    3300036: Cube.007
+    3300038: Cube.008
+    3300040: Cube.009
+    3300042: Door
+    3300044: DoorFrame
+    3300046: Grid
+    3300048: Handle_Back
+    3300050: Handle_Front
+    3300052: keyboard
+    3300054: kursi admin 1
+    3300056: kursi admin 2
+    3300058: kursi ruang diskusi kiri
+    3300060: kursi ruang diskusi kiri.001
+    3300062: kursi ruang diskusi kiri.002
+    3300064: kursi ruang diskusi kiri.003
+    3300066: kursi ruang diskusi kiri.004
+    3300068: kursi ruang diskusi kiri.005
+    3300070: kursi ruang diskusi kiri.006
+    3300072: kursi ruang diskusi kiri.007
+    3300074: kursi ruang diskusi kiri.008
+    3300076: lantai utama
+    3300078: loker besi
+    3300080: loker besi.001
+    3300082: loker besi.002
+    3300084: loker besi.003
+    3300086: loker besi.004
+    3300088: loker besi.005
+    3300090: loker kayu
+    3300092: loker kayu.001
+    3300094: loker kayu.002
+    3300096: loker kayu.003
+    3300098: loker kayu.004
+    3300100: loker kayu.005
+    3300102: loker kayu.006
+    3300104: loker kayu.007
+    3300106: loker kayu.008
+    3300108: loker kayu.009
+    3300110: luar
+    3300112: meja admin
+    3300114: meja besar r sofa
+    3300116: meja besar r sofa.001
+    3300118: meja besar r sofa.002
+    3300120: meja besar r sofa.003
+    3300122: meja besar ruang panjang kanan
+    3300124: meja besar ruang panjang kanan.001
+    3300126: meja besar ruang panjang kanan.002
+    3300128: meja besar ruang panjang kanan.003
+    3300130: meja besar ruang panjang kanan.004
+    3300132: meja kecil r.sofa
+    3300134: meja kecil r.sofa.001
+    3300136: meja kecil r.sofa.002
+    3300138: meja kecil r.sofa.003
+    3300140: meja kecil ruang baca kiri
+    3300142: meja panjang 1.001
+    3300144: meja panjang 1.002
+    3300146: meja panjang 1.003
+    3300148: meja panjang 1.004
+    3300150: meja ruang diskusi kiri
+    3300152: meja ruang diskusi kiri.001
+    3300154: meja ruang diskusi kiri.002
+    3300156: meja ruang diskusi kiri.003
+    3300158: meja ruang diskusi kiri.004
+    3300160: meja ruang diskusi kiri.005
+    3300162: meja ruang diskusi kiri.006
+    3300164: meja ruang diskusi kiri.007
+    3300166: meja ruang diskusi kiri.008
+    3300168: meja ruang panjang kanan
+    3300170: monitor
+    3300172: mouse
+    3300174: papan ruang diskusi kiri
+    3300176: papan ruang diskusi kiri.001
+    3300178: papan ruang diskusi kiri.002
+    3300180: papan ruang diskusi kiri.003
+    3300182: papan ruang diskusi kiri.004
+    3300184: papan ruang diskusi kiri.005
+    3300186: papan ruang diskusi kiri.006
+    3300188: papan ruang diskusi kiri.007
+    3300190: papan ruang diskusi kiri.008
+    3300192: pintu masuk
+    3300194: pintu masuk.001
+    3300196: rak buku panjang
+    3300198: rak buku pendek
+    3300200: rak buku pendek.001
+    3300202: rak buku pendek.002
+    3300204: rak r sofa
+    3300206: rak ruang miring
+    3300208: rak ruang miring.001
+    3300210: rak ruang miring.002
+    3300212: rak ruang miring.003
+    3300214: rak ruang miring.004
+    3300216: rak ruang miring.005
+    3300218: rak ruang miring.006
+    3300220: rak ruang miring.007
+    3300222: rak ruang miring.008
+    3300224: rak ruang miring.009
+    3300226: rak ruang miring.010
+    3300228: rak ruang miring.011
+    3300230: rak ruang miring.012
+    3300232: ruan buku pendek
+    3300234: ruang  baca panjang
+    3300236: ruang  buku panjang
+    3300238: ruang loker besi
+    3300240: ruang miring
+    3300242: ruangskrip
+    3300244: runag sofa
+    3300246: sofa  kecil ruang panjang 1
+    3300248: sofa  kecil ruang panjang 1.001
+    3300250: sofa  kecil ruang panjang 1.002
+    3300252: sofa besar ruang sofa
+    3300254: sofa besar ruang sofa.001
+    3300256: sofa besar ruang sofa.002
+    3300258: sofa besar ruang sofa.003
+    3300260: sofa besar ruang sofa.004
+    3300262: sofa kecil r.sofa
+    3300264: sofa kecil r.sofa.001
+    3300266: sofa kecil r.sofa.002
+    3300268: sofa kecil r.sofa.003
+    3300270: sofa kecil ruang panjang 2
+    3300272: Tangga
+    3300274: tiang panjang
+    3300276: tiang pendek001
+    3300278: tiang pendek001.001
+    3300280: tiang pendek001.002
+    3300282: tiang pendek001.003
+    3300284: tiang pendek001.004
+    3300286: tiang pendek001.005
+    3300288: tiang pendek001.006
+    3300290: tiang pendek001.007
+    3300292: tiang pendek001.008
+    3300294: tiang pendek001.009
+    4300000: pintu masuk.001
+    4300002: bangku ruang panjang 1.003
+    4300004: bangku ruang panjang 1.002
+    4300006: bangku ruang panjang 1.001
+    4300008: tiang pendek001.009
+    4300010: tiang pendek001.008
+    4300012: tiang pendek001.007
+    4300014: tiang pendek001.006
+    4300016: tiang pendek001.005
+    4300018: tiang pendek001.004
+    4300020: tiang pendek001.003
+    4300022: tiang pendek001.002
+    4300024: rak buku pendek.002
+    4300026: rak buku pendek.001
+    4300028: sofa kecil r.sofa.003
+    4300030: sofa kecil r.sofa.002
+    4300032: sofa kecil r.sofa.001
+    4300034: meja besar r sofa.003
+    4300036: meja besar r sofa.002
+    4300038: meja besar r sofa.001
+    4300040: sofa besar ruang sofa.004
+    4300042: sofa besar ruang sofa.003
+    4300044: sofa besar ruang sofa.002
+    4300046: sofa besar ruang sofa.001
+    4300048: meja kecil r.sofa.003
+    4300050: meja kecil r.sofa.002
+    4300052: meja kecil r.sofa.001
+    4300054: bangku ruang panjang 2.004
+    4300056: bangku ruang panjang 2.003
+    4300058: bangku ruang panjang 2.002
+    4300060: bangku ruang panjang 2.001
+    4300062: meja besar ruang panjang kanan.004
+    4300064: meja besar ruang panjang kanan.003
+    4300066: meja besar ruang panjang kanan.002
+    4300068: meja besar ruang panjang kanan.001
+    4300070: meja panjang 1.004
+    4300072: meja panjang 1.003
+    4300074: meja panjang 1.002
+    4300076: meja panjang 1.001
+    4300078: sofa  kecil ruang panjang 1.002
+    4300080: sofa  kecil ruang panjang 1.001
+    4300082: rak ruang miring.012
+    4300084: rak ruang miring.011
+    4300086: Cube.009
+    4300088: kursi ruang diskusi kiri.008
+    4300090: meja ruang diskusi kiri.008
+    4300092: papan ruang diskusi kiri.008
+    4300094: papan ruang diskusi kiri.007
+    4300096: meja ruang diskusi kiri.007
+    4300098: kursi ruang diskusi kiri.007
+    4300100: Cube.008
+    4300102: Cube.007
+    4300104: kursi ruang diskusi kiri.006
+    4300106: meja ruang diskusi kiri.006
+    4300108: papan ruang diskusi kiri.006
+    4300110: papan ruang diskusi kiri.005
+    4300112: meja ruang diskusi kiri.005
+    4300114: kursi ruang diskusi kiri.005
+    4300116: Cube.006
+    4300118: Cube.005
+    4300120: kursi ruang diskusi kiri.004
+    4300122: meja ruang diskusi kiri.004
+    4300124: papan ruang diskusi kiri.004
+    4300126: Cube.004
+    4300128: papan ruang diskusi kiri.003
+    4300130: meja ruang diskusi kiri.003
+    4300132: kursi ruang diskusi kiri.003
+    4300134: Cube.003
+    4300136: Cube.002
+    4300138: kursi ruang diskusi kiri.002
+    4300140: meja ruang diskusi kiri.002
+    4300142: papan ruang diskusi kiri.002
+    4300144: papan ruang diskusi kiri.001
+    4300146: meja ruang diskusi kiri.001
+    4300148: kursi ruang diskusi kiri.001
+    4300150: Cube.001
+    4300152: rak ruang miring.010
+    4300154: rak ruang miring.009
+    4300156: rak ruang miring.008
+    4300158: rak ruang miring.007
+    4300160: rak ruang miring.006
+    4300162: rak ruang miring.005
+    4300164: rak ruang miring.004
+    4300166: rak ruang miring.003
+    4300168: loker besi.005
+    4300170: loker besi.004
+    4300172: loker besi.003
+    4300174: loker besi.002
+    4300176: loker besi.001
+    4300178: loker kayu.009
+    4300180: loker kayu.008
+    4300182: loker kayu.007
+    4300184: loker kayu.006
+    4300186: loker kayu.005
+    4300188: loker kayu.004
+    4300190: loker kayu.003
+    4300192: loker kayu.002
+    4300194: loker kayu.001
+    4300196: bangku ruang panjang 1
+    4300198: bangku ruang panjang 2
+    4300200: CTRL_Baseboard
+    4300202: CTRL_Hole
+    4300204: DoorFrame
+    4300206: Door
+    4300208: Handle_Back
+    4300210: Handle_Front
+    4300212: Grid
+    4300214: keyboard
+    4300216: kursi admin 1
+    4300218: kursi admin 2
+    4300220: lantai utama
+    4300222: loker besi
+    4300224: loker kayu
+    4300226: meja admin
+    4300228: meja besar r sofa
+    4300230: meja besar ruang panjang kanan
+    4300232: meja kecil r.sofa
+    4300234: meja kecil ruang baca kiri
+    4300236: meja ruang panjang kanan
+    4300238: monitor
+    4300240: mouse
+    4300242: pintu masuk
+    4300244: rak buku panjang
+    4300246: rak buku pendek
+    4300248: rak r sofa
+    4300250: rak ruang miring
+    4300252: rak ruang miring.001
+    4300254: rak ruang miring.002
+    4300256: ruan buku pendek
+    4300258: ruang  baca panjang
+    4300260: ruang  buku panjang
+    4300262: ruang loker besi
+    4300264: ruang miring
+    4300266: ruangskrip
+    4300268: runag sofa
+    4300270: sofa  kecil ruang panjang 1
+    4300272: sofa besar ruang sofa
+    4300274: sofa kecil r.sofa
+    4300276: sofa kecil ruang panjang 2
+    4300278: tiang panjang
+    4300280: tiang pendek001
+    4300282: tiang pendek001.001
+    4300284: luar
+    4300286: Tangga
+    4300288: Cube
+    4300290: kursi ruang diskusi kiri
+    4300292: meja ruang diskusi kiri
+    4300294: papan ruang diskusi kiri
+    6400000: bangku ruang panjang 1
+    6400002: bangku ruang panjang 1.001
+    6400004: bangku ruang panjang 1.002
+    6400006: bangku ruang panjang 1.003
+    6400008: bangku ruang panjang 2
+    6400010: bangku ruang panjang 2.001
+    6400012: bangku ruang panjang 2.002
+    6400014: bangku ruang panjang 2.003
+    6400016: bangku ruang panjang 2.004
+    6400018: CTRL_Baseboard
+    6400020: CTRL_Hole
+    6400022: Cube
+    6400024: Cube.001
+    6400026: Cube.002
+    6400028: Cube.003
+    6400030: Cube.004
+    6400032: Cube.005
+    6400034: Cube.006
+    6400036: Cube.007
+    6400038: Cube.008
+    6400040: Cube.009
+    6400042: Door
+    6400044: DoorFrame
+    6400046: Grid
+    6400048: Handle_Back
+    6400050: Handle_Front
+    6400052: keyboard
+    6400054: kursi admin 1
+    6400056: kursi admin 2
+    6400058: kursi ruang diskusi kiri
+    6400060: kursi ruang diskusi kiri.001
+    6400062: kursi ruang diskusi kiri.002
+    6400064: kursi ruang diskusi kiri.003
+    6400066: kursi ruang diskusi kiri.004
+    6400068: kursi ruang diskusi kiri.005
+    6400070: kursi ruang diskusi kiri.006
+    6400072: kursi ruang diskusi kiri.007
+    6400074: kursi ruang diskusi kiri.008
+    6400076: lantai utama
+    6400078: loker besi
+    6400080: loker besi.001
+    6400082: loker besi.002
+    6400084: loker besi.003
+    6400086: loker besi.004
+    6400088: loker besi.005
+    6400090: loker kayu
+    6400092: loker kayu.001
+    6400094: loker kayu.002
+    6400096: loker kayu.003
+    6400098: loker kayu.004
+    6400100: loker kayu.005
+    6400102: loker kayu.006
+    6400104: loker kayu.007
+    6400106: loker kayu.008
+    6400108: loker kayu.009
+    6400110: luar
+    6400112: meja admin
+    6400114: meja besar r sofa
+    6400116: meja besar r sofa.001
+    6400118: meja besar r sofa.002
+    6400120: meja besar r sofa.003
+    6400122: meja besar ruang panjang kanan
+    6400124: meja besar ruang panjang kanan.001
+    6400126: meja besar ruang panjang kanan.002
+    6400128: meja besar ruang panjang kanan.003
+    6400130: meja besar ruang panjang kanan.004
+    6400132: meja kecil r.sofa
+    6400134: meja kecil r.sofa.001
+    6400136: meja kecil r.sofa.002
+    6400138: meja kecil r.sofa.003
+    6400140: meja kecil ruang baca kiri
+    6400142: meja panjang 1.001
+    6400144: meja panjang 1.002
+    6400146: meja panjang 1.003
+    6400148: meja panjang 1.004
+    6400150: meja ruang diskusi kiri
+    6400152: meja ruang diskusi kiri.001
+    6400154: meja ruang diskusi kiri.002
+    6400156: meja ruang diskusi kiri.003
+    6400158: meja ruang diskusi kiri.004
+    6400160: meja ruang diskusi kiri.005
+    6400162: meja ruang diskusi kiri.006
+    6400164: meja ruang diskusi kiri.007
+    6400166: meja ruang diskusi kiri.008
+    6400168: meja ruang panjang kanan
+    6400170: monitor
+    6400172: mouse
+    6400174: papan ruang diskusi kiri
+    6400176: papan ruang diskusi kiri.001
+    6400178: papan ruang diskusi kiri.002
+    6400180: papan ruang diskusi kiri.003
+    6400182: papan ruang diskusi kiri.004
+    6400184: papan ruang diskusi kiri.005
+    6400186: papan ruang diskusi kiri.006
+    6400188: papan ruang diskusi kiri.007
+    6400190: papan ruang diskusi kiri.008
+    6400192: pintu masuk
+    6400194: pintu masuk.001
+    6400196: rak buku panjang
+    6400198: rak buku pendek
+    6400200: rak buku pendek.001
+    6400202: rak buku pendek.002
+    6400204: rak r sofa
+    6400206: rak ruang miring
+    6400208: rak ruang miring.001
+    6400210: rak ruang miring.002
+    6400212: rak ruang miring.003
+    6400214: rak ruang miring.004
+    6400216: rak ruang miring.005
+    6400218: rak ruang miring.006
+    6400220: rak ruang miring.007
+    6400222: rak ruang miring.008
+    6400224: rak ruang miring.009
+    6400226: rak ruang miring.010
+    6400228: rak ruang miring.011
+    6400230: rak ruang miring.012
+    6400232: ruan buku pendek
+    6400234: ruang  baca panjang
+    6400236: ruang  buku panjang
+    6400238: ruang loker besi
+    6400240: ruang miring
+    6400242: ruangskrip
+    6400244: runag sofa
+    6400246: sofa  kecil ruang panjang 1
+    6400248: sofa  kecil ruang panjang 1.001
+    6400250: sofa  kecil ruang panjang 1.002
+    6400252: sofa besar ruang sofa
+    6400254: sofa besar ruang sofa.001
+    6400256: sofa besar ruang sofa.002
+    6400258: sofa besar ruang sofa.003
+    6400260: sofa besar ruang sofa.004
+    6400262: sofa kecil r.sofa
+    6400264: sofa kecil r.sofa.001
+    6400266: sofa kecil r.sofa.002
+    6400268: sofa kecil r.sofa.003
+    6400270: sofa kecil ruang panjang 2
+    6400272: Tangga
+    6400274: tiang panjang
+    6400276: tiang pendek001
+    6400278: tiang pendek001.001
+    6400280: tiang pendek001.002
+    6400282: tiang pendek001.003
+    6400284: tiang pendek001.004
+    6400286: tiang pendek001.005
+    6400288: tiang pendek001.006
+    6400290: tiang pendek001.007
+    6400292: tiang pendek001.008
+    6400294: tiang pendek001.009
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

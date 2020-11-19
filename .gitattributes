@@ -1,0 +1,9 @@
+*.assets filter=lfs diff=lfs merge=lfs -text
+Library/metadata/* filter=lfs diff=lfs merge=lfs -text
+Library/metadata/05/0578b1d555563f845936e8dfdc1f135c filter=lfs diff=lfs merge=lfs -text
+Library/metadata/23/23de49f15b5ef3f44b6286a57cb5ceb5 filter=lfs diff=lfs merge=lfs -text
+Library/metadata/34/34ed4d3cba2629943a76432aea394854 filter=lfs diff=lfs merge=lfs -text
+Library/metadata/42/426a50dab95c4a54aa3fc29a5417ed83 filter=lfs diff=lfs merge=lfs -text
+Library/metadata/47/4720c3951a3cb7042ab014420fde0725 filter=lfs diff=lfs merge=lfs -text
+Library/metadata/51/51061615f28227747bb3e38eb4128db5 filter=lfs diff=lfs merge=lfs -text
+Library/metadata/72/7287429881ff7794c95f0f0a81a8141c filter=lfs diff=lfs merge=lfs -text
